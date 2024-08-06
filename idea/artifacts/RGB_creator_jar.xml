@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RGB creator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RGB_creator_jar</output-path>
+    <root id="archive" name="RGB creator.jar">
+      <element id="module-output" name="RGB creator" />
+    </root>
+  </artifact>
+</component>
